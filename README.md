@@ -1,16 +1,47 @@
-## Hi there 👋
+# Olá! Eu sou Italo Willyan 👋
 
-<!--
-**italowillyan/italowillyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Informática no IFRN – Campus Currais Novos  
+💻 Interessado em desenvolvimento web, software e tecnologia.
 
-Here are some ideas to get you started:
+## 🚀 Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sou estudante do curso Técnico Integrado em Informática no IFRN e gosto de transformar ideias em projetos práticos.
+
+Tenho experiência com desenvolvimento web, bancos de dados, programação e ferramentas de desenvolvimento. Atualmente, estou aprimorando minhas habilidades e desenvolvendo projetos acadêmicos e pessoais.
+
+## 🛠️ Tecnologias
+
+### Linguagens
+- Python
+- JavaScript
+- HTML
+- CSS
+- SQL
+
+### Frameworks e ferramentas
+- Django
+- Bootstrap
+- PostgreSQL
+- Git
+- GitHub
+- VS Code
+
+## 📌 Projetos
+
+### Tá Na Mão
+Plataforma web desenvolvida para gerenciamento de aluguel de produtos.
+
+### FocusEdu
+Projeto educacional voltado à identificação antecipada de estudantes com dificuldades acadêmicas e risco de evasão.
+
+### Controle de Validade
+Sistema desenvolvido para auxiliar no controle e acompanhamento da validade de produtos.
+
+## 🎓 Formação
+
+**IFRN – Campus Currais Novos**  
+Técnico Integrado em Informática
+
+## 📫 Contato
+
+[![GitHub](https://img.shields.io/badge/GitHub-italowillyan-181717?style=for-the-badge&logo=github)](https://github.com/italowillyan)
